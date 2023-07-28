@@ -1,0 +1,16 @@
+/* styles.css */
+.Book-Title {
+    font-family: 'Courier', sans-serif;
+    font-size: 36px;
+}
+
+.poem-title {
+    font-family: 'Courier', serif;
+    font-size: 20px;
+    font-weight: normal;
+    margin-bottom: 20px;
+}
+.text{
+    font-family: 'Courier', serif;
+    font-size: 14px;
+}
